@@ -1,4 +1,4 @@
-# IT1244 Teaching Slides
+# IT1244 Teaching Materials
 Welcome! This public repository hosts all tutorial materials that I created for the NUS course IT1244: Artificial Intelligence: Technology and Impact for AY25/26 Semester 2. You'll find slides, code, and additional resources used during the live tutorial. You are encouraged to star this repo to stay updated as new tutorial materials will continue to be added throughout the semester.
 
 ## Course Information
